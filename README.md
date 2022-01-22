@@ -34,7 +34,7 @@ Lista zakupów:
 ```
       <table>
           <tr>
-              <td>Foo</td>
+              <td>Part 1</td>
           </tr>
       </table>
 ```
@@ -47,4 +47,4 @@ Lista zakupów:
 ```
 2. Zrób cośtam
 
-![This is an image of cat](./kot.jpg)
+![This is an image of a cat](./kot.jpg)
