@@ -1,25 +1,12 @@
-# markdown
-# Cztery słonie
+# PLUSZOWE NIEDŹWIADKI
 
-Były raz sobie **cztery słonie**,
-Małe, wesołe, zielone słonie,
-Każdy z kokardką na ogonie,
-*Hej, cztery słonie !*
+Raz uciekły z pozłacanej klatki Cztery małe, **pluszowe niedźwiadki,** Jeden łkał, wracać chciał, Do ciemnego lasu wejść się bał. Mały miś, do lasu bał się iść, Ze strachu drżał jak liść, pluszowy miś. Ciemny las, tam wilki zjedzą nas, Wracajmy bracia wraz, dopóki czas!
 
-I poszły sobie w daleki świat,
-W daleką drogę, wesoły świat,
-Hej, świeci słońce, wieje wiatr,
-A one idą w świat.
+Nie bój się wilki nie zjedzą cię! Będziemy bronić się, nie damy się! Śmiało w przód, po słodki, wonny miód, Jagody, istny cud, użyjem w bród! Trzy niedźwiadki, rety, co za heca, *Babę Jagę wsadziły do pieca, Teraz wieść muszą nieść,* ~~Już nie będzie Baba Jaga dzieci jeść.~~
 
-Idą przez góry cztery słonie
-małe, wesołe, zielone słonie
-wtem jeden w przepaść straszną leci
-patrzcie, ten trzeci!
+Mały miś, do lasu bał się iść, Ze strachu drżał jak liść, pluszowy miś. **Ciemny las, tam wilki zjedzą nas,** Wracajmy bracia wraz, dopóki czas! Nie bój się wilki nie zjedzą cię! Będziemy bronić się, nie damy się! Śmiało w przód, po słodki, wonny miód, *Jagody, istny cud, użyjem w bród!*
 
-> Na pomoc biegną mu wszystkie wnet
-Za uszy ciągną go i za grzbiet
-I wyciągnęły wreszcie go
-Wiec strasznie rade są!
+> Wspaniały utwór. muz. Piotr Kalina/sł. Jadwiga Prawdzic-Szczawińska M.J. 
 
 1. Pierwsza pozycja
 2. Druga pozycja
