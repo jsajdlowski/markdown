@@ -25,13 +25,7 @@ Lista zakupów:
           </tr>
       </table>
 ```
-1. Przeanalizuj poniższy kod:
-```
-        <html>
-          <head>
-            <title>Test</title>
-          </head>
-```
-2. Zrób cośtam
+Kod programu `sort_list()` zagnieżdżony w tekście
+Edytor <code>nano</code> zagnieżdżony w tekście
 
 ![This is an image of a cat](./kot.jpg)
