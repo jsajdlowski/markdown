@@ -6,8 +6,7 @@ def test_factorial():
     assert main.factorial(10) == 3628800
     assert main.factorial(1) == 1
 
-def test_is_lower():
-    assert main.is_lower("ala") == True
-    assert main.is_lower("Kotek") == False
-    assert main.is_lower("MlekO") == False
-    assert main.is_lower("mleko") == True
+def test_subtraction():
+    assert main.subtraction(4,5) == -1
+    assert main.subtraction(5,4) == 1
+    assert main.subtraction(4.5,4) == 0
