@@ -28,4 +28,4 @@ Lista zakupów:
 Kod programu `sort_list()` zagnieżdżony w tekście
 Edytor <code>nano</code> zagnieżdżony w tekście
 
-![This is an image of a cat](./kot.jpg)
+![This is an image of a cat](./cat.jpg)
